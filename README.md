@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Snehilsingh071/dsapraactice/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Snehilsingh071/dsapraactice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/3731-find-missing-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Snehilsingh071/dsapraactice/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Snehilsingh071/dsapraactice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
