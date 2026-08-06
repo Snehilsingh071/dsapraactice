@@ -76,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
