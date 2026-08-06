@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0619-biggest-single-number) |
 | [1070-product-sales-analysis-iii](https://github.com/Snehilsingh071/dsapraactice/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1179-reformat-department-table](https://github.com/Snehilsingh071/dsapraactice/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Snehilsingh071/dsapraactice/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1729-find-followers-count](https://github.com/Snehilsingh071/dsapraactice/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Snehilsingh071/dsapraactice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
