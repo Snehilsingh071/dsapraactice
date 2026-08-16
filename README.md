@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Snehilsingh071/dsapraactice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Snehilsingh071/dsapraactice/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Snehilsingh071/dsapraactice/tree/master/0392-is-subsequence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehilsingh071/dsapraactice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Snehilsingh071/dsapraactice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Snehilsingh071/dsapraactice/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
