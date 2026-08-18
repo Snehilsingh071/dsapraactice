@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Snehilsingh071/dsapraactice/tree/master/0177-nth-highest-salary) |
 | [0550-game-play-analysis-iv](https://github.com/Snehilsingh071/dsapraactice/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/Snehilsingh071/dsapraactice/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Snehilsingh071/dsapraactice/tree/master/0595-big-countries) |
