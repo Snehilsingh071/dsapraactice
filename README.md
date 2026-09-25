@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/Snehilsingh071/dsapraactice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Snehilsingh071/dsapraactice/tree/master/1401-circle-and-rectangle-overlapping) |
