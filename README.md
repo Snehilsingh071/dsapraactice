@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Snehilsingh071/dsapraactice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Snehilsingh071/dsapraactice/tree/master/0303-range-sum-query-immutable) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0724-find-pivot-index) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Snehilsingh071/dsapraactice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Snehilsingh071/dsapraactice/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/Snehilsingh071/dsapraactice/tree/master/0905-sort-array-by-parity) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Snehilsingh071/dsapraactice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Snehilsingh071/dsapraactice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -255,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
