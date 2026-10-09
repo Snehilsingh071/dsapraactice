@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Snehilsingh071/dsapraactice/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Snehilsingh071/dsapraactice/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Snehilsingh071/dsapraactice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Snehilsingh071/dsapraactice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehilsingh071/dsapraactice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Snehilsingh071/dsapraactice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0202-happy-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehilsingh071/dsapraactice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
