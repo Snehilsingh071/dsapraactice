@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Snehilsingh071/dsapraactice/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Snehilsingh071/dsapraactice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Snehilsingh071/dsapraactice/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Snehilsingh071/dsapraactice/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
