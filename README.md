@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Snehilsingh071/dsapraactice/tree/master/0303-range-sum-query-immutable) |
+| [0485-max-consecutive-ones](https://github.com/Snehilsingh071/dsapraactice/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Snehilsingh071/dsapraactice/tree/master/0905-sort-array-by-parity) |
