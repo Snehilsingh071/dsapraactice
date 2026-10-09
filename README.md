@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Snehilsingh071/dsapraactice/tree/master/0303-range-sum-query-immutable) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/Snehilsingh071/dsapraactice/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Snehilsingh071/dsapraactice/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
+| [0905-sort-array-by-parity](https://github.com/Snehilsingh071/dsapraactice/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Snehilsingh071/dsapraactice/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
+| [0905-sort-array-by-parity](https://github.com/Snehilsingh071/dsapraactice/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Snehilsingh071/dsapraactice/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Snehilsingh071/dsapraactice/tree/master/2149-rearrange-array-elements-by-sign) |
