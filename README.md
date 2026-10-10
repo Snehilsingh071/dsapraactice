@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Snehilsingh071/dsapraactice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Snehilsingh071/dsapraactice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 ## Greedy
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehilsingh071/dsapraactice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehilsingh071/dsapraactice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Snehilsingh071/dsapraactice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Snehilsingh071/dsapraactice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0724-find-pivot-index) |
