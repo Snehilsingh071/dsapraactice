@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Snehilsingh071/dsapraactice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Snehilsingh071/dsapraactice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Snehilsingh071/dsapraactice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/Snehilsingh071/dsapraactice/tree/master/0905-sort-array-by-parity) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Snehilsingh071/dsapraactice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -272,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
