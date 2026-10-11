@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Snehilsingh071/dsapraactice/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Snehilsingh071/dsapraactice/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Snehilsingh071/dsapraactice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1688-count-of-matches-in-tournament](https://github.com/Snehilsingh071/dsapraactice/tree/master/1688-count-of-matches-in-tournament) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Snehilsingh071/dsapraactice/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Snehilsingh071/dsapraactice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Snehilsingh071/dsapraactice/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
