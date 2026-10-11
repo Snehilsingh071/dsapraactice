@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Snehilsingh071/dsapraactice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Snehilsingh071/dsapraactice/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/2974-minimum-number-game) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Snehilsingh071/dsapraactice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/3731-find-missing-elements) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Snehilsingh071/dsapraactice/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Brainteaser
 |  |
