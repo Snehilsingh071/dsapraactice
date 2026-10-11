@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Snehilsingh071/dsapraactice/tree/master/0303-range-sum-query-immutable) |
+| [0324-wiggle-sort-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/Snehilsingh071/dsapraactice/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0724-find-pivot-index) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
+| [0324-wiggle-sort-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0324-wiggle-sort-ii) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/Snehilsingh071/dsapraactice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0922-sort-array-by-parity-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Snehilsingh071/dsapraactice/tree/master/0011-container-with-most-water) |
+| [0324-wiggle-sort-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0324-wiggle-sort-ii) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Snehilsingh071/dsapraactice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quicksort
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Snehilsingh071/dsapraactice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0324-wiggle-sort-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0324-wiggle-sort-ii) |
 ## Counting
 |  |
 | ------- |
@@ -294,4 +298,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0324-wiggle-sort-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0324-wiggle-sort-ii) |
 <!---LeetCode Topics End-->
