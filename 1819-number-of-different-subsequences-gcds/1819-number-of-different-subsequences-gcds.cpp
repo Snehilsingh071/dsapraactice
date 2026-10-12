@@ -1,15 +1,11 @@
 class Solution {
 public:
     int countDifferentSubsequenceGCDs(vector<int>& nums) {
-        int maxi = 0;
-
-        // Find maximum number
+        int maxim = 0;      
         for (int i = 0; i < nums.size(); i++) {
-            maxi = max(maxi, nums[i]);
-        }
-
-        // Mark which numbers are present
-        vector<bool> present(maxi + 1, false);
+            maxim = max(maxim, nums[i]);
+        }        
+        vector<bool> present(maxim + 1, false);
 
         for (int i = 0; i < nums.size(); i++) {
             present[nums[i]] = true;
@@ -18,9 +14,9 @@ public:
         int ans = 0;
 
         
-        for (int i = 1; i <= maxi; i++) {
+        for (int i = 1; i <= maxim; i++) {
             int g = 0;
-            for (int j = i; j <= maxi; j += i) {
+            for (int j = i; j <= maxim; j += i) {
                 if (present[j]) {
                     g = gcd(g, j);
                 }
