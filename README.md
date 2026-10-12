@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/Snehilsingh071/dsapraactice/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Snehilsingh071/dsapraactice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Snehilsingh071/dsapraactice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/Snehilsingh071/dsapraactice/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/Snehilsingh071/dsapraactice/tree/master/1688-count-of-matches-in-tournament) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Snehilsingh071/dsapraactice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/3871-count-commas-in-range-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/Snehilsingh071/dsapraactice/tree/master/1492-the-kth-factor-of-n) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
 ## Primality Test
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -312,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Snehilsingh071/dsapraactice/tree/master/1492-the-kth-factor-of-n) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
 <!---LeetCode Topics End-->
