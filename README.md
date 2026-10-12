@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Snehilsingh071/dsapraactice/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Snehilsingh071/dsapraactice/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1492-the-kth-factor-of-n](https://github.com/Snehilsingh071/dsapraactice/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/Snehilsingh071/dsapraactice/tree/master/1688-count-of-matches-in-tournament) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Snehilsingh071/dsapraactice/tree/master/3870-count-commas-in-range) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/Snehilsingh071/dsapraactice/tree/master/1492-the-kth-factor-of-n) |
 ## Primality Test
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0324-wiggle-sort-ii) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Snehilsingh071/dsapraactice/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
