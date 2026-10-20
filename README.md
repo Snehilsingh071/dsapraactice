@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Snehilsingh071/dsapraactice/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Snehilsingh071/dsapraactice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Snehilsingh071/dsapraactice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Snehilsingh071/dsapraactice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Snehilsingh071/dsapraactice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Snehilsingh071/dsapraactice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Snehilsingh071/dsapraactice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
