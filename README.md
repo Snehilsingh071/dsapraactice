@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Snehilsingh071/dsapraactice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0209-minimum-size-subarray-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Snehilsingh071/dsapraactice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
