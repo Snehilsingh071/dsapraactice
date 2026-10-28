@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Snehilsingh071/dsapraactice/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Snehilsingh071/dsapraactice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
