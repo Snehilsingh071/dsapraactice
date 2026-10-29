@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Snehilsingh071/dsapraactice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Snehilsingh071/dsapraactice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/0347-top-k-frequent-elements) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Snehilsingh071/dsapraactice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/0347-top-k-frequent-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehilsingh071/dsapraactice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/3731-find-missing-elements) |
@@ -313,12 +316,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/0347-top-k-frequent-elements) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Snehilsingh071/dsapraactice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
