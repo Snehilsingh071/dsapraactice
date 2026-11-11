@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Snehilsingh071/dsapraactice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Snehilsingh071/dsapraactice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Snehilsingh071/dsapraactice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Snehilsingh071/dsapraactice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Quicksort
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Snehilsingh071/dsapraactice/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Snehilsingh071/dsapraactice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Snehilsingh071/dsapraactice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/3875-construct-uniform-parity-array-i) |
