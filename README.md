@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Snehilsingh071/dsapraactice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Snehilsingh071/dsapraactice/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Snehilsingh071/dsapraactice/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/Snehilsingh071/dsapraactice/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Snehilsingh071/dsapraactice/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/Snehilsingh071/dsapraactice/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Snehilsingh071/dsapraactice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Snehilsingh071/dsapraactice/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0324-wiggle-sort-ii) |
 | [0611-valid-triangle-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0611-valid-triangle-number) |
+| [0910-smallest-range-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Snehilsingh071/dsapraactice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Snehilsingh071/dsapraactice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Snehilsingh071/dsapraactice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Snehilsingh071/dsapraactice/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Snehilsingh071/dsapraactice/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Snehilsingh071/dsapraactice/tree/master/0836-rectangle-overlap) |
+| [0910-smallest-range-ii](https://github.com/Snehilsingh071/dsapraactice/tree/master/0910-smallest-range-ii) |
 | [1025-divisor-game](https://github.com/Snehilsingh071/dsapraactice/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Snehilsingh071/dsapraactice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/Snehilsingh071/dsapraactice/tree/master/1492-the-kth-factor-of-n) |
