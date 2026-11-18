@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Snehilsingh071/dsapraactice/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/Snehilsingh071/dsapraactice/tree/master/1688-count-of-matches-in-tournament) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
+| [2413-smallest-even-multiple](https://github.com/Snehilsingh071/dsapraactice/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Snehilsingh071/dsapraactice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Snehilsingh071/dsapraactice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Snehilsingh071/dsapraactice/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Snehilsingh071/dsapraactice/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/Snehilsingh071/dsapraactice/tree/master/1492-the-kth-factor-of-n) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Snehilsingh071/dsapraactice/tree/master/1819-number-of-different-subsequences-gcds) |
+| [2413-smallest-even-multiple](https://github.com/Snehilsingh071/dsapraactice/tree/master/2413-smallest-even-multiple) |
 ## Primality Test
 |  |
 | ------- |
